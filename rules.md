@@ -1,10 +1,10 @@
 # Rules & Community Guidelines
 
-In an effort to keep our community a safe and pleasant place open to civilized discussions, we've expanded upon our previous, limited set of rules. We ask that everyone follow the rules below at all times or risk being removed from the community either temporarily, or permanently! (At the discretion of the moderators).
+In an effort to keep our community a safe and pleasant place open to civilized discussions, we've expanded upon our previous, limited set of rules. We ask that everyone follow the rules below at all times or risk being removed from the community either temporarily, or permanently! (This is enforced at the discretion of the mod team).
 
  ## No Piracy!
  We have a Zero Tolerance Policy towards piracy! 
- No linking to, asking for, or about, or discussion or mention of ROM-sharing websites, or other copyright-infringing websites or content. This also includes linking to the miniNES and miniSNES firmware, kernels or any firmware or BIOS that is protected by copyrights. **First offense receives a permanent lifetime ban**.
+ No linking to, asking for, or about, or discussion or mention of ROM-sharing websites, or other copyright-infringing websites or content. This also includes linking to the miniNES and miniSNES firmware, kernels or any firmware or BIOS that is protected by copyrights. **First offense receives a permanent ban**.
 
 **Exceptions:** 
 - You can link users looking for the [Firmware or Kernels](https://wiki.hakchi.net/Boot_Image) to the wiki for more information.
@@ -37,7 +37,7 @@ This is a friendly, inclusive, and fun community. Debate and disagreement are ok
 -   prejudice (including homophobia, sexism, racism, or slurs);
 -   personal attacks, insults, harassment, "witch hunting" or threats;
 -   trolling, spamming;
--   flaming (Give criticism of the post, not the poster)
+-   flaming (Give criticism of the post, not the poster);
 -   swearing at other users;
 -   rape/suicide jokes;
 -   posting private communications without permission (Such as discord conversations);
@@ -50,19 +50,18 @@ That includes anything pornographic, sexually explicit, or blatantly suggestive.
 
 ## Questions answered in the FAQ/Sidebar
 
--   Use the search bar, your search engine, and the  [FAQ](https://www.reddit.com/r/miniSNESmods/wiki/faq)  to ensure that you are not re-posting recent content or already answered questions. Duplicate questions are subject to locking and removal.
+-   Use the search bar, your search engine, and the  [FAQ](https://www.reddit.com/r/miniSNESmods/wiki/faq)  to ensure that you are not re-posting recent content or already answered questions. Duplicate questions are subject to locking and removal at the discretion of the mod team.
 
 ## Keep postings relevant to the SNES Classic
 
 -   This is a community by SNES Classic fans for SNES Classic fans. Let's keep the content here limited to related topics, and not videos of your cat chasing a laser pointer. If you have another classic system you would like to discuss or need help with, we suggest joining one of the Related Subreddits in the sidebar like [r/ClassicMods](https://www.reddit.com/r/ClassicMods).
 
-## All content should be in English.
+## No affiliate, refferal or URL shortener links.
 
-That includes, posts, comments and linked content. Links to non-English content is okay if it's subtitled, translated or otherwise interesting to English speakers (Subject to the mod teams discretion).
+This includes amazon referral links or any other link in which you or anyone else would profit from. Any links found in violation of this rule may result in the users account being banned (This is enforced at the discretion of the mod team).
 
-## No referral or URL shortener links.
-
-This includes amazon referral links or any other link in which you profit or benefit from. Any links found in violation of this rule will result in the users account being banned.
+**Why don't we allow them?**
+Affiliate and referral links like those from Amazon allow people to make a commission by sharing links to a store or product that contain a refferal code. When someone clicks on any of these links a cookie is stored on the computer and the account will be credited for any purchases you make, even if it wasn't the item in the link. This finacial incentive often causes people to spam thier links in posts and comments.  We want people to share links to products because they want to help out the community, but not because they're looking for a get rich quick scheme. If you have an affiliate or referral link you really want to share, that benfits the community, please get in touch with a moderator for approval before posting. **Coupon Codes for related products are ok to post**
 
 ## Self promotion
 ### Limits on promoting streams and let's play videos.
@@ -97,7 +96,7 @@ If the title/description are a valid discussion topic by themselves, any images 
 **These may be removed:**
 
 -   Questions answered in the FAQs.
-- Links to Youtube videos not relevant to the modding community
+-   Links to Youtube videos not relevant to the modding community
 
 **Attention!**
 These Rules & Community Guidelines are subject to change without notice at anytime, please take a moment to check them before posting or commenting if you're unsure if your post/comment will violate them.
